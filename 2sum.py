@@ -3,8 +3,6 @@ first = list(map(int, f.readline().split()))
 k = first[0]
 n = first[1]
 
-pair_sum = 0
-
 
 def sum(arr, target=0):
     dict = {}
